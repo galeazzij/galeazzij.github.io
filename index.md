@@ -4,7 +4,7 @@
 
 ### Recent Work 
 
-[Project 1 Title](/sample_page)
+[The Farm Finder](https://vigorous-carson-a34053.netlify.app/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
