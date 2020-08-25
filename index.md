@@ -19,7 +19,7 @@
 
 ### Resume
 
-- [My Resume](http://example.com/)
+- [My Resume](pdf/j_galeazzi_resume_08_2020_scrubbed.docx)
 
 ---
 
