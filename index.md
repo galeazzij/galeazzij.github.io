@@ -7,7 +7,7 @@
 [The Farm Finder](https://vigorous-carson-a34053.netlify.app/)
 <img src="images/farm finder screenshot.png?raw=true"/>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[COVID Now](https://covidlookup.netlify.app/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
