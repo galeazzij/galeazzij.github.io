@@ -8,7 +8,7 @@
 <img src="images/farm finder screenshot.png?raw=true"/>
 ---
 [COVID Now](https://covidlookup.netlify.app/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="iimages/Screen Shot 2020-08-25 at 3.09.03 PM.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -18,7 +18,7 @@
 
 ### Resume
 
-- [My Resume](pdf/j_galeazzi_resume_08_2020_scrubbed.pdf)
+- [Download My Resume](pdf/j_galeazzi_resume_08_2020_scrubbed.pdf)
 
 ---
 
