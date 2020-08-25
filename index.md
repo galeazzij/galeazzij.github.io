@@ -9,11 +9,6 @@
 ---
 [COVID Now](https://covidlookup.netlify.app/)
 <img src="images/Screen Shot 2020-08-25 at 3.09.03 PM.png?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 ### Resume
