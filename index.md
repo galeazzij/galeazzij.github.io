@@ -11,6 +11,7 @@
 <img src="images/Screen Shot 2020-08-25 at 3.09.03 PM.png?raw=true"/>
 ---
 [Space Tank](https://space-tank.netlify.app/)
+<img src="images/headspace.jpg?raw=true"/>
 
 
 ## Resume
