@@ -1,3 +1,9 @@
+## Resume
+
+- [Download My Resume](pdf/j_galeazzi_resume_08_2020_scrubbed.pdf)
+
+---
+
 ## Portfolio
 
 ---
@@ -9,12 +15,6 @@
 ---
 [COVID Now](https://covidlookup.netlify.app/)
 <img src="images/Screen Shot 2020-08-25 at 3.09.03 PM.png?raw=true"/>
----
-
-### Resume
-
-- [Download My Resume](pdf/j_galeazzi_resume_08_2020_scrubbed.pdf)
-
 ---
 
 
